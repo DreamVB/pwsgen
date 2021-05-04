@@ -13,14 +13,16 @@ Example above creatures 100 passwords a length of 16 using lowercase and upperca
 
 # Other commands
 
-- --Length        Length of the password to create.
-- --Count         Total number of passwords to create.
-- --Uppercase     Include uppercase characters.
-- --Lowercase     Include lowercase characters.
-- --Digits        Include digits.
-- --Symbols       Include special characters.
-- --NoVowels      Remove all vowel characters.
-- --N             Include line numbers.
-- --Help          Display this help.
+| Command  | Description |
+| ------------- | ------------- |
+| --Length  | Length of the password to create.  |
+| --Count  | Total number of passwords to create.  |
+| --Uppercase  | Include uppercase characters.  |
+| --Lowercase  | Include lowercase characters.  |
+| --Digits  | Include digits.  |
+| --Symbols  | Include special characters. |
+| --NoVowels   | Remove all vowel characters.  |
+| --N  | Include line numbers. |
+| --Help  | Show help screen. |
 
 
